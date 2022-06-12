@@ -5,7 +5,6 @@
 #include <vector>
 #include <fstream>
 
-#include "bytes.h"
 #include "kinterface.h"
 #include "utils.h"
 #include "mmap.h"
